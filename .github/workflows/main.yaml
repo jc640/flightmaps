@@ -1,10 +1,10 @@
 on:
   push:
     branches:
-      - master
+      - upload
   pull_request:
     branches:
-      - master
+      - upload
       
 permissions: 
   contents: write
