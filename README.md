@@ -1,1 +1,1 @@
-[rccreswell.github.io](https://rccreswell.github.io/flightmaps)
+[Log and maps](https://rccreswell.github.io/flightmaps)
