@@ -1,3 +1,4 @@
+code,iata,icao,lat,lon,elevation,name,city,region,country,continent
 UTK,UTK,03N,11.222,169.852005,4.0,Utirik Airport,Utirik Island,Utirik,Marshall Islands,Europe
 ,,03PN,41.066861,-76.180806,479.0,M.P. Metals Heliport,Berwick,Pennsylvania,United States,Europe
 ,,04VA,36.898,-82.078,2004.0,Russell County Medical Center Heliport,Lebanon,Virginia,United States,Europe
