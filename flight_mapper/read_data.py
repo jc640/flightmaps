@@ -181,6 +181,7 @@ class Flight:
 
         pos = 1
         for node in all_nodes[1:]:
+            print(node)
             if node[0] == 's' and len(node) == 4:
                 if pos < 2:
                     display_rstring += ' &#8628; ' + airports[node[1:]].write_airport(airport_type='scheduled')
