@@ -622,7 +622,7 @@ LGW,LGW,EGKK,51.148101806640625,-0.19027799367904663,202.0,London Gatwick Airpor
 LCY,LCY,EGLC,51.505299,0.055278,19.0,London City Airport,London,England,United Kingdom,Europe
 LHR,LHR,EGLL,51.4706,-0.461941,83.0,London Heathrow Airport,London,England,United Kingdom,Europe
 SEN,SEN,EGMC,51.5713996887207,0.6955559849739075,49.0,Southend Airport,Southend,England,United Kingdom,Europe
-LYX,LYX,EGMD,50.95610046386719,0.9391670227050781,13.0,Lydd Airport,Lydd, Ashford,England,United Kingdom,Europe
+LYX,LYX,EGMD,50.95610046386719,0.9391670227050781,13.0,Lydd Airport,Lydd Ashford,England,United Kingdom,Europe
 ,,EGMT,51.537505,0.367634,20.0,Thurrock Airfield,,England,United Kingdom,Europe
 BLK,BLK,EGNH,53.77170181274414,-3.0286099910736084,34.0,Blackpool International Airport,Blackpool,England,United Kingdom,Europe
 HUY,HUY,EGNJ,53.57440185546875,-0.350832998752594,121.0,Humberside Airport,Grimsby,England,United Kingdom,Europe
@@ -690,21 +690,21 @@ ALF,ALF,ENAT,69.976097106934,23.371700286865,9.0,Alta Airport,Alta,Finnmark,Norw
 FDE,FDE,ENBL,61.391101837158,5.7569398880005,1046.0,Førde Airport,Førde,Sogn og Fjordane,Norway,Europe
 BNN,BNN,ENBN,65.461097717285,12.217499732971,25.0,Brønnøysund Airport,Brønnøy,Nordland,Norway,Europe
 BOO,BOO,ENBO,67.26920318603516,14.365300178527832,42.0,Bodø Airport,Bodø,Nordland,Norway,Europe
-BGO,BGO,ENBR,60.29339981,5.218140125,170.0,Bergen Airport, Flesland,Bergen,Hordaland,Norway,Europe
+BGO,BGO,ENBR,60.29339981,5.218140125,170.0,Bergen Airport Flesland,Bergen,Hordaland,Norway,Europe
 BJF,BJF,ENBS,70.60050201416,29.691400527954,490.0,Båtsfjord Airport,Båtsfjord,Finnmark,Norway,Europe
 BVG,BVG,ENBV,70.871398925781,29.034200668335,42.0,Berlevåg Airport,Berlevåg,Finnmark,Norway,Europe
-KRS,KRS,ENCN,58.204201,8.08537,57.0,Kristiansand Airport, Kjevik,Kristiansand,Vest-Agder,Norway,Europe
+KRS,KRS,ENCN,58.204201,8.08537,57.0,Kristiansand Airport Kjevik,Kristiansand,Vest-Agder,Norway,Europe
 BDU,BDU,ENDU,69.055801391602,18.540399551392,252.0,Bardufoss Airport,Målselv,Troms,Norway,Europe
-EVE,EVE,ENEV,68.491302490234,16.678100585938,84.0,Harstad/Narvik Airport, Evenes,Evenes,Nordland,Norway,Europe
+EVE,EVE,ENEV,68.491302490234,16.678100585938,84.0,Harstad/Narvik Airport Evenes,Evenes,Nordland,Norway,Europe
 VDB,VDB,ENFG,61.015598297119,9.2880601882935,2697.0,Leirin Airport,,Oppland,Norway,Europe
 FRO,FRO,ENFL,61.583599090576,5.0247201919556,37.0,Florø Airport,Florø,Sogn og Fjordane,Norway,Europe
-OSL,OSL,ENGM,60.193901062012,11.100399971008,681.0,Oslo Airport, Gardermoen,Oslo,Akershus,Norway,Europe
+OSL,OSL,ENGM,60.193901062012,11.100399971008,681.0,Oslo Airport Gardermoen,Oslo,Akershus,Norway,Europe
 HAU,HAU,ENHD,59.34529876709,5.2083601951599,86.0,Haugesund Airport,Karmøy,Rogaland,Norway,Europe
 HFT,HFT,ENHF,70.679702758789,23.668600082397,266.0,Hammerfest Airport,Hammerfest,Finnmark,Norway,Europe
 HAA,HAA,ENHK,70.486701965332,22.139699935913,21.0,Hasvik Airport,Hasvik,Finnmark,Norway,Europe
 HVG,HVG,ENHV,71.009696960449,25.983600616455,44.0,Valan Airport,Honningsvåg,Finnmark,Norway,Europe
-KSU,KSU,ENKB,63.111801147461,7.824520111084,204.0,Kristiansund Airport, Kvernberget,Kristiansund,Møre og Romsdal,Norway,Europe
-KKN,KKN,ENKR,69.725799560547,29.891300201416,283.0,Kirkenes Airport, Høybuktmoen,Kirkenes,Finnmark,Norway,Europe
+KSU,KSU,ENKB,63.111801147461,7.824520111084,204.0,Kristiansund Airport Kvernberget,Kristiansund,Møre og Romsdal,Norway,Europe
+KKN,KKN,ENKR,69.725799560547,29.891300201416,283.0,Kirkenes Airport Høybuktmoen,Kirkenes,Finnmark,Norway,Europe
 LKN,LKN,ENLK,68.152496337891,13.609399795532,78.0,Leknes Airport,Leknes,Nordland,Norway,Europe
 MEH,MEH,ENMH,71.02970123291,27.826700210571,39.0,Mehamn Airport,Mehamn,Finnmark,Norway,Europe
 MOL,MOL,ENML,62.744701385498,7.2624998092651,10.0,Molde Airport,Årø,Møre og Romsdal,Norway,Europe
@@ -714,24 +714,24 @@ NVK,NVK,ENNK,68.436897277832,17.386699676514,95.0,Narvik Framnes Airport,Narvik,
 OSY,OSY,ENNM,64.472198486328,11.57859992981,7.0,Namsos Høknesøra Airport,Namsos,Nord-Trøndelag,Norway,Europe
 NTB,NTB,ENNO,59.565701,9.21222,63.0,Notodden Airport,Notodden,Telemark,Norway,Europe
 OLA,OLA,ENOL,63.69889831542969,9.604000091552734,28.0,Ørland Airport,Ørland,Sør-Trøndelag,Norway,Europe
-HOV,HOV,ENOV,62.180000305176,6.0741000175476,243.0,Ørsta-Volda Airport, Hovden,Ørsta,Møre og Romsdal,Norway,Europe
-MQN,MQN,ENRA,66.363899230957,14.301400184631,229.0,Mo i Rana Airport, Røssvoll,Mo i Rana,Nordland,Norway,Europe
-RVK,RVK,ENRM,64.838302612305,11.14610004425,14.0,Rørvik Airport, Ryum,Rørvik,Nord-Trøndelag,Norway,Europe
+HOV,HOV,ENOV,62.180000305176,6.0741000175476,243.0,Ørsta-Volda Airport Hovden,Ørsta,Møre og Romsdal,Norway,Europe
+MQN,MQN,ENRA,66.363899230957,14.301400184631,229.0,Mo i Rana Airport Røssvoll,Mo i Rana,Nordland,Norway,Europe
+RVK,RVK,ENRM,64.838302612305,11.14610004425,14.0,Rørvik Airport Ryum,Rørvik,Nord-Trøndelag,Norway,Europe
 RRS,RRS,ENRO,62.578399658203,11.342300415039,2054.0,Røros Airport,Røros,Sør-Trøndelag,Norway,Europe
 RET,RET,ENRS,67.527801513672,12.103300094604,7.0,Røst Airport,,Nordland,Norway,Europe
 RYG,RYG,ENRY,59.378817,10.785439,174.0,Moss-Rygge Airport,Oslo,Østfold,Norway,Europe
-LYR,LYR,ENSB,78.246101379395,15.465600013733,88.0,Svalbard Airport, Longyear,Longyearbyen,Svalbard,Norway,Europe
+LYR,LYR,ENSB,78.246101379395,15.465600013733,88.0,Svalbard Airport Longyear,Longyearbyen,Svalbard,Norway,Europe
 SDN,SDN,ENSD,61.830001831055,6.1058301925659,196.0,Sandane Airport (Anda),Sandane,Sogn og Fjordane,Norway,Europe
 SOG,SOG,ENSG,61.156101,7.13778,1633.0,Sogndal Airport,Sogndal,Sogn og Fjordane,Norway,Europe
 SVJ,SVJ,ENSH,68.243301391602,14.669199943542,27.0,Svolvær Helle Airport,Svolvær,Nordland,Norway,Europe
 SKN,SKN,ENSK,68.578826904297,15.033416748047,11.0,Stokmarknes Skagen Airport,Hadsel,Nordland,Norway,Europe
 SRP,SRP,ENSO,59.791900634765625,5.340849876403809,160.0,Stord Airport,Leirvik,Hordaland,Norway,Europe
 SOJ,SOJ,ENSR,69.786796569824,20.959400177002,16.0,Sørkjosen Airport,Sørkjosen,Troms,Norway,Europe
-VAW,VAW,ENSS,70.355400085449,31.044900894165,42.0,Vardø Airport, Svartnes,Vardø,Finnmark,Norway,Europe
+VAW,VAW,ENSS,70.355400085449,31.044900894165,42.0,Vardø Airport Svartnes,Vardø,Finnmark,Norway,Europe
 SSJ,SSJ,ENST,65.956802368164,12.468899726868,56.0,Sandnessjøen Airport (Stokka),Alstahaug,Nordland,Norway,Europe
-TOS,TOS,ENTC,69.68329620361328,18.918899536132812,31.0,Tromsø Airport, Langnes,Tromsø,Troms,Norway,Europe
-TRF,TRF,ENTO,59.1866989136,10.258600235,286.0,Sandefjord Airport, Torp,Torp,Vestfold,Norway,Europe
-TRD,TRD,ENVA,63.4578018,10.9239998,56.0,Trondheim Airport, Værnes,Trondheim,Nord-Trøndelag,Norway,Europe
+TOS,TOS,ENTC,69.68329620361328,18.918899536132812,31.0,Tromsø Airport Langnes,Tromsø,Troms,Norway,Europe
+TRF,TRF,ENTO,59.1866989136,10.258600235,286.0,Sandefjord Airport Torp,Torp,Vestfold,Norway,Europe
+TRD,TRD,ENVA,63.4578018,10.9239998,56.0,Trondheim Airport Værnes,Trondheim,Nord-Trøndelag,Norway,Europe
 VDS,VDS,ENVD,70.065299987793,29.844699859619,127.0,Vadsø Airport,Vadsø,Finnmark,Norway,Europe
 VRY,VRY,ENVR,67.654555,12.727257,12.0,Værøy Heliport,Værøy,Nordland,Norway,Europe
 SVG,SVG,ENZV,58.876701354,5.6377801895,29.0,Stavanger Airport Sola,Stavanger,Rogaland,Norway,Europe
@@ -1001,9 +1001,9 @@ OUK,OUK,GB-OUK,60.4252,-0.75,76.0,Outer Skerries Airport,Grunay Island,Scotland,
 PSV,PSV,GB-PSV,60.321701049805,-1.6930600404739,0.0,Papa Stour Airport,Papa Stour Island,Scotland,United Kingdom,Europe
 BJL,BJL,GBYD,13.338000297546387,-16.65220069885254,95.0,Banjul International Airport,Banjul,Western,Gambia,Europe
 FUE,FUE,GCFV,28.452699661254883,-13.863800048828125,85.0,Fuerteventura Airport,Fuerteventura Island,Canary Islands,Spain,Europe
-GMZ,GMZ,GCGM,28.029600143432617,-17.214599609375,716.0,La Gomera Airport,Alajero, La Gomera Island,Canary Islands,Spain,Europe
+GMZ,GMZ,GCGM,28.029600143432617,-17.214599609375,716.0,La Gomera Airport,Alajero La Gomera Island,Canary Islands,Spain,Europe
 VDE,VDE,GCHI,27.814800262451172,-17.887100219726562,103.0,Hierro Airport,El Hierro Island,Canary Islands,Spain,Europe
-SPC,SPC,GCLA,28.62649917602539,-17.755599975585938,107.0,La Palma Airport,Sta Cruz de la Palma, La Palma Island,Canary Islands,Spain,Europe
+SPC,SPC,GCLA,28.62649917602539,-17.755599975585938,107.0,La Palma Airport,Sta Cruz de la Palma La Palma Island,Canary Islands,Spain,Europe
 LPA,LPA,GCLP,27.931900024414062,-15.38659954071045,78.0,Gran Canaria Airport,Gran Canaria Island,Canary Islands,Spain,Europe
 ACE,ACE,GCRR,28.945499420166016,-13.605199813842773,46.0,Lanzarote Airport,Lanzarote Island,Canary Islands,Spain,Europe
 TFS,TFS,GCTS,28.044500351,-16.5725002289,209.0,Tenerife South Airport,Tenerife Island,Canary Islands,Spain,Europe
@@ -1056,7 +1056,7 @@ BTO,BTO,GY-BTO,4.21751109352,-55.4470539093,242.0,Botopasi Airport,Botopasi,Sipa
 DOE,DOE,GY-DOE,4.00571261057,-55.4816436768,290.0,Djumu-Djomoe Airport,Djumu-Djomoe,Sipaliwini,Suriname,Europe
 LDO,LDO,GY-LDO,4.37610828345,-55.407056808499995,236.0,Ladouanie Airport,Aurora,Sipaliwini,Suriname,Europe
 ADD,ADD,HAAB,8.97789001465,38.799301147499996,7630.0,Addis Ababa Bole International Airport,Addis Ababa,Addis Ababa,Ethiopia,Europe
-AMH,AMH,HAAM,6.0393900871276855,37.59049987792969,3901.0,Arba Minch Airport,,Southern Nations, Nationalities and Peoples,Ethiopia,Europe
+AMH,AMH,HAAM,6.0393900871276855,37.59049987792969,3901.0,Arba Minch Airport,,Southern Nations Nationalities and Peoples,Ethiopia,Europe
 AXU,AXU,HAAX,14.14680004119873,38.77280044555664,6959.0,Axum Airport,,Tigrai,Ethiopia,Europe
 BJR,BJR,HABD,11.608099937438965,37.32160186767578,5978.0,Bahir Dar Airport,Bahir Dar,Amara,Ethiopia,Europe
 BEI,BEI,HABE,9.38638973236084,34.52190017700195,5410.0,Beica Airport,Beica,Benshangul-Gumaz,Ethiopia,Europe
@@ -1157,7 +1157,7 @@ EBB,EBB,HUEN,0.042385999113321304,32.44350051879883,3782.0,Entebbe International
 ULU,ULU,HUGU,2.8055601119995117,32.27180099487305,3510.0,Gulu Airport,Gulu,Gulu District,Uganda,Europe
 SRT,SRT,HUSO,1.7276899814605713,33.622798919677734,3697.0,Soroti Airport,Soroti,Soroti District,Uganda,Europe
 HYL,HYL,HYL,55.4816017151,-132.645996094,0.0,Hollis Clark Bay Seaplane Base,Hollis,Alaska,United States,Europe
-JBB,JBB,ID-0006,-8.238056,113.694439,281.0,Noto Hadinegoro, Jember Airport,Jember,Jawa Timur,Indonesia,Europe
+JBB,JBB,ID-0006,-8.238056,113.694439,281.0,Noto Hadinegoro Jember Airport,Jember,Jawa Timur,Indonesia,Europe
 BWX,BWX,ID-0011,-8.31015,114.3401,112.0,Blimbingsari Airport,Banyuwangi,Jawa Timur,Indonesia,Europe
 ,,ID-0012,-0.01924,98.30097,30.0,Lasondre Airport,Batu Islands,Sumatera Utara,Indonesia,Europe
 ,,ID-0013,-8.14055555556,114.616666667,66.0,Letkol Wisnu Airstrip,Pemuteran,Bali,Indonesia,Europe
@@ -1244,7 +1244,7 @@ BRD,BRD,KBRD,46.39830017,-94.13809967,1232.0,Brainerd Lakes Regional Airport,Bra
 BRL,BRL,KBRL,40.783199310302734,-91.12550354003906,698.0,Southeast Iowa Regional Airport,Burlington,Iowa,United States,Europe
 BRO,BRO,KBRO,25.90679931640625,-97.4259033203125,22.0,Brownsville South Padre Island International Airport,Brownsville,Texas,United States,Europe
 BTM,BTM,KBTM,45.95479965209961,-112.49700164794922,5550.0,Bert Mooney Airport,Butte,Montana,United States,Europe
-BTR,BTR,KBTR,30.53319931,-91.14959717,70.0,Baton Rouge Metropolitan, Ryan Field,Baton Rouge,Louisiana,United States,Europe
+BTR,BTR,KBTR,30.53319931,-91.14959717,70.0,Baton Rouge Metropolitan Ryan Field,Baton Rouge,Louisiana,United States,Europe
 BTV,BTV,KBTV,44.471900939899996,-73.15329742429999,335.0,Burlington International Airport,Burlington,Vermont,United States,Europe
 BUF,BUF,KBUF,42.94049835,-78.73220062,728.0,Buffalo Niagara International Airport,Buffalo,New York,United States,Europe
 BUR,BUR,KBUR,34.20069885253906,-118.35900115966797,778.0,Bob Hope Airport,Burbank,California,United States,Europe
@@ -1281,7 +1281,7 @@ DAB,DAB,KDAB,29.179899,-81.058098,34.0,Daytona Beach International Airport,Dayto
 DAL,DAL,KDAL,32.847099,-96.851799,487.0,Dallas Love Field,Dallas,Texas,United States,Europe
 DAY,DAY,KDAY,39.902400970458984,-84.21939849853516,1009.0,James M Cox Dayton International Airport,Dayton,Ohio,United States,Europe
 DBQ,DBQ,KDBQ,42.40200043,-90.70950317,1077.0,Dubuque Regional Airport,Dubuque,Iowa,United States,Europe
-DCA,DCA,KDCA,38.8521,-77.037697,15.0,Ronald Reagan Washington National Airport,Washington, D.C.,District of Columbia,United States,Europe
+DCA,DCA,KDCA,38.8521,-77.037697,15.0,Ronald Reagan Washington National Airport,Washington D.C.,District of Columbia,United States,Europe
 DDC,DDC,KDDC,37.76340103149414,-99.9655990600586,2594.0,Dodge City Regional Airport,Dodge City,Kansas,United States,Europe
 DEC,DEC,KDEC,39.834598541259766,-88.8656997680664,682.0,Decatur Airport,Decatur,Illinois,United States,Europe
 DEN,DEN,KDEN,39.861698150635,-104.672996521,5431.0,Denver International Airport,Denver,Colorado,United States,Europe
@@ -1362,7 +1362,7 @@ HTS,HTS,KHTS,38.36669922,-82.55799866,828.0,Tri-State/Milton J. Ferguson Field,H
 HVN,HVN,KHVN,41.26369858,-72.88680267,12.0,Tweed New Haven Airport,New Haven,Connecticut,United States,Europe
 HYA,HYA,KHYA,41.66930008,-70.28040314,54.0,Barnstable Municipal Boardman Polando Field,Hyannis,Massachusetts,United States,Europe
 JFN,JFN,KHZY,41.7779998779,-80.6955032349,924.0,Northeast Ohio Regional Airport,Ashtabula,Ohio,United States,Europe
-IAD,IAD,KIAD,38.94449997,-77.45580292,312.0,Washington Dulles International Airport,Washington, D.C.,District of Columbia,United States,Europe
+IAD,IAD,KIAD,38.94449997,-77.45580292,312.0,Washington Dulles International Airport,Washington D.C.,District of Columbia,United States,Europe
 IAH,IAH,KIAH,29.984399795532227,-95.34140014648438,97.0,George Bush Intercontinental Houston Airport,Houston,Texas,United States,Europe
 ICT,ICT,KICT,37.649898529052734,-97.43309783935547,1333.0,Wichita Mid Continent Airport,Wichita,Kansas,United States,Europe
 IDA,IDA,KIDA,43.514599,-112.070999,4744.0,Idaho Falls Regional Airport,Idaho Falls,Idaho,United States,Europe
@@ -2114,7 +2114,7 @@ SVU,SVU,NFNS,-16.8027992249,179.341003418,17.0,Savusavu Airport,Savusavu,Norther
 EUA,EUA,NFTE,-21.378299713100002,-174.957992554,325.0,Kaufana Airport,Eua Island,Eua,Tonga,Europe
 TBU,TBU,NFTF,-21.241199493408203,-175.14999389648438,126.0,Fua'amotu International Airport,Nuku'alofa,Tongatapu,Tonga,Europe
 HPA,HPA,NFTL,-19.777000427246094,-174.34100341796875,31.0,Lifuka Island Airport,Lifuka,Ha'apai,Tonga,Europe
-NFO,NFO,NFTO,-15.5707998276,-175.632995605,160.0,Mata'aho Airport,Angaha, Niuafo'ou Island,Niuas,Tonga,Europe
+NFO,NFO,NFTO,-15.5707998276,-175.632995605,160.0,Mata'aho Airport,Angaha Niuafo'ou Island,Niuas,Tonga,Europe
 NTT,NTT,NFTP,-15.977297,-173.791089,30.0,Kuini Lavenia Airport,Niuatoputapu,Niuas,Tonga,Europe
 VAV,VAV,NFTV,-18.58530044555664,-173.96200561523438,236.0,Vava'u International Airport,Vava'u Island,Vava',Tonga,Europe
 VBV,VBV,NFVB,-17.268999099731445,-178.9759979248047,76.0,Vanua Balavu Airport,Vanua Balavu,Eastern,Fiji,Europe
@@ -2442,7 +2442,7 @@ VMU,VMU,PG-VMU,-7.49686002731,144.819900513,27.0,Baimuru Airport,Baimuru,Gulf,Pa
 WPM,WPM,PG-WPM,-8.788220405579999,142.882003784,173.0,Wipim Airport,Wipim,Western (Fly River),Papua New Guinea,Europe
 ROP,ROP,PGRO,14.174300193786621,145.2429962158203,607.0,Rota International Airport,Rota Island,(unassigned),Northern Mariana Islands,Europe
 SPN,SPN,PGSN,15.119000434899998,145.729003906,215.0,Saipan International Airport,Saipan Island,(unassigned),Northern Mariana Islands,Europe
-GUM,GUM,PGUM,13.4834003448,144.796005249,298.0,Antonio B. Won Pat International Airport,Hagåtña, Guam International Airport,(unassigned),Guam,Europe
+GUM,GUM,PGUM,13.4834003448,144.796005249,298.0,Antonio B. Won Pat International Airport,Hagåtña Guam International Airport,(unassigned),Guam,Europe
 CGY,CGY,PH-0001,8.612203,124.456496,190.0,Laguindingan Airport,Cagayan de Oro City,Misamis Oriental Province,Philippines,Europe
 ,,PH-0007,8.951634,125.478544,0.0,BXU Airport,,Agusan del Norte Province,Philippines,Europe
 ENI,ENI,PH-ENI,11.20199966430664,119.41699981689453,0.0,El Nido Airport,El Nido,Palawan Province,Philippines,Europe
@@ -2608,7 +2608,7 @@ SUG,SUG,RPMS,9.755838325629998,125.480947495,20.0,Surigao Airport,Surigao City,S
 TDG,TDG,RPMW,9.072110176086426,126.1709976196289,16.0,Tandag Airport,,Surigao del Sur Province,Philippines,Europe
 ZAM,ZAM,RPMZ,6.922420024871826,122.05999755859375,33.0,Zamboanga International Airport,Zamboanga City,Zamboanga del Sur Province,Philippines,Europe
 IAO,IAO,RPNS,9.8591003418,126.013999939,10.0,Siargao Airport,Del Carmen,Surigao del Norte Province,Philippines,Europe
-RZP,RZP,RPSD,10.81874,119.507697,80.0,Cesar Lim Rodriguez Airport,Taytay Airport, Sandoval Airport,Palawan Province,Philippines,Europe
+RZP,RZP,RPSD,10.81874,119.507697,80.0,Cesar Lim Rodriguez Airport,Taytay Airport Sandoval Airport,Palawan Province,Philippines,Europe
 BAG,BAG,RPUB,16.375099182128906,120.62000274658203,4251.0,Loakan Airport,Baguio City,Benguet Province,Philippines,Europe
 SJI,SJI,RPUH,12.361499786399998,121.04699707,14.0,San Jose Airport,San Jose,Mindoro Occidental Province,Philippines,Europe
 WNP,WNP,RPUN,13.58489990234375,123.2699966430664,142.0,Naga Airport,Naga,Camarines Sur Province,Philippines,Europe
@@ -2866,13 +2866,13 @@ PDA,PDA,SKPD,3.85353,-67.9062,460.0,Obando Airport,Puerto Inírida,Guainía Depa
 PEI,PEI,SKPE,4.81267,-75.7395,4416.0,Matecaña International Airport,Pereira,Risaralda Department,Colombia,Europe
 PPN,PPN,SKPP,2.4544,-76.6093,5687.0,Guillermo León Valencia Airport,Popayán,Cauca Department,Colombia,Europe
 PSO,PSO,SKPS,1.39625,-77.2915,5951.0,Antonio Narino Airport,Pasto,Nariño Department,Colombia,Europe
-PVA,PVA,SKPV,13.3569,-81.3583,10.0,El Embrujo Airport,Providencia,San Andrés, Providencia y Santa Catalina Department,Colombia,Europe
+PVA,PVA,SKPV,13.3569,-81.3583,10.0,El Embrujo Airport,Providencia,San Andrés Providencia y Santa Catalina Department,Colombia,Europe
 MDE,MDE,SKRG,6.16454,-75.4231,6955.0,Jose Maria Córdova International Airport,Medellín,Antioquía Department,Colombia,Europe
 RCH,RCH,SKRH,11.5262,-72.926,43.0,Almirante Padilla Airport,Riohacha,La Guajira Department,Colombia,Europe
 RVE,RVE,SKSA,6.951868,-71.857179,680.0,Los Colonizadores Airport,Saravena,Arauca Department,Colombia,Europe
 SJE,SJE,SKSJ,2.57969,-72.6394,605.0,Jorge E. Gonzalez Torres Airport,San José Del Guaviare,Guaviare Department,Colombia,Europe
 SMR,SMR,SKSM,11.1196,-74.2306,22.0,Simón Bolívar International Airport,Santa Marta,Magdalena Department,Colombia,Europe
-ADZ,ADZ,SKSP,12.5836,-81.7112,19.0,Gustavo Rojas Pinilla International Airport,San Andrés,San Andrés, Providencia y Santa Catalina Department,Colombia,Europe
+ADZ,ADZ,SKSP,12.5836,-81.7112,19.0,Gustavo Rojas Pinilla International Airport,San Andrés,San Andrés Providencia y Santa Catalina Department,Colombia,Europe
 SVI,SVI,SKSV,2.15217,-74.7663,920.0,Eduardo Falla Solano Airport,San Vicente Del Caguán,Caquetá Department,Colombia,Europe
 TLU,TLU,SKTL,9.50945,-75.5854,16.0,Golfo de Morrosquillo Airport,Tolú,Sucre Department,Colombia,Europe
 TME,TME,SKTM,6.45108,-71.7603,1050.0,Gustavo Vargas Airport,Tame,Arauca Department,Colombia,Europe
@@ -3003,7 +3003,7 @@ SBH,SBH,TFFJ,17.904399871826172,-62.84360122680664,49.0,Gustaf III Airport,Gusta
 GBJ,GBJ,TFFM,15.86870002746582,-61.27000045776367,16.0,Les Bases Airport,Grand Bourg,(unassigned),Guadeloupe,Europe
 PTP,PTP,TFFR,16.265301,-61.531799,36.0,Pointe-à-Pitre Le Raizet,Pointe-à-Pitre,(unassigned),Guadeloupe,Europe
 GND,GND,TGPY,12.004199981689453,-61.78620147705078,41.0,Point Salines International Airport,Saint George's,Saint George,Grenada,Europe
-STT,STT,TIST,18.337299346923828,-64.97339630126953,23.0,Cyril E. King Airport,Charlotte Amalie, Harry S. Truman Airport,(unassigned),U.S. Virgin Islands,Europe
+STT,STT,TIST,18.337299346923828,-64.97339630126953,23.0,Cyril E. King Airport,Charlotte Amalie Harry S. Truman Airport,(unassigned),U.S. Virgin Islands,Europe
 STX,STX,TISX,17.701900482177734,-64.79859924316406,74.0,Henry E Rohlsen Airport,Christiansted,(unassigned),U.S. Virgin Islands,Europe
 BQN,BQN,TJBQ,18.49489974975586,-67.12940216064453,237.0,Rafael Hernandez Airport,Aguadilla,(unassigned),Puerto Rico,Europe
 SIG,SIG,TJIG,18.45680046081543,-66.09809875488281,10.0,Fernando Luis Ribas Dominicci Airport,San Juan,(unassigned),Puerto Rico,Europe
@@ -3293,7 +3293,7 @@ RTW,RTW,UWSS,51.564998626708984,46.04669952392578,499.0,Saratov Central Airport,
 UFA,UFA,UWUU,54.557498931885,55.874401092529,449.0,Ufa International Airport,Ufa,Republic of Bashkortostan,Russia,Europe
 KUF,KUF,UWWW,53.504901885986,50.16429901123,477.0,Kurumoch International Airport,Samara,Samara Oblast,Russia,Europe
 UZR,UZR,UZR,47.09115,81.66521,0.0,Urzhar Airport,Urzhar,East Kazakhstan Region,Kazakhstan,Europe
-REW,REW,VA1G,24.503401,81.220299,1000.0,Rewa Airport, Chorhata, REWA,Rewa,Madhya Pradesh,India,Europe
+REW,REW,VA1G,24.503401,81.220299,1000.0,Rewa Airport Chorhata REWA,Rewa,Madhya Pradesh,India,Europe
 DIU,DIU,VA1P,20.71310043334961,70.92109680175781,31.0,Diu Airport,Diu,Gujarat,India,Europe
 AMD,AMD,VAAH,23.0771999359,72.63469696039999,189.0,Sardar Vallabhbhai Patel International Airport,Ahmedabad,Gujarat,India,Europe
 IXU,IXU,VAAU,19.862699508666992,75.39810180664062,1911.0,Aurangabad Airport,Aurangabad,Maharashtra,India,Europe
@@ -3554,7 +3554,7 @@ PKY,PKY,WAOP,-2.22513008118,113.943000793,82.0,Tjilik Riwut Airport,Palangkaraya
 SMQ,SMQ,WAOS,-2.49919009209,112.974998474,50.0,Sampit(Hasan) Airport,Sampit-Borneo Island,Central Kalimantan,Indonesia,Europe
 NDA,NDA,WAPC,-4.5214,129.9054,100.0,Bandanaira Airport,Banda-Naira Island,Maluku,Indonesia,Europe
 LUV,LUV,WAPL,-5.661620140075684,132.7310028076172,10.0,Dumatumbun Airport,Langgur-Seram Island,Maluku,Indonesia,Europe
-AMQ,AMQ,WAPP,-3.7102599144,128.089004517,33.0,Pattimura Airport, Ambon,Ambon,Maluku,Indonesia,Europe
+AMQ,AMQ,WAPP,-3.7102599144,128.089004517,33.0,Pattimura Airport Ambon,Ambon,Maluku,Indonesia,Europe
 MLG,MLG,WARA,-7.926559925079999,112.714996338,1726.0,Abdul Rachman Saleh Airport,Malang-Java Island,Jawa Timur,Indonesia,Europe
 JOG,JOG,WARJ,-7.788179874420166,110.43199920654297,350.0,Adi Sutjipto International Airport,Yogyakarta-Java Island,Yogyakarta,Indonesia,Europe
 SOC,SOC,WARQ,-7.516089916229248,110.75700378417969,421.0,Adi Sumarmo Wiryokusumo Airport,Sukarata(Solo)-Java Island,Jawa Tengah,Indonesia,Europe
