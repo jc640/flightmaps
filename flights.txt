@@ -554,11 +554,6 @@ date=20180204,desig=SK,number=504,route=LHR-CPH,mkt_cxr=Scandinavian Airlines,ty
 date=20180217,desig=SK,number=2691,route=CPH-VCE,mkt_cxr=Scandinavian Airlines,type2=Airbus A321,registration=OY-KBB
 date=20180218,desig=LH,number=265,route=VRN-FRA,mkt_cxr=Lufthansa,type2=Embraer E-195,registration=I-ADJK
 date=20180218,desig=SK,number=1636,route=FRA-CPH,mkt_cxr=Scandinavian Airlines,type2=Airbus A320,registration=LN-RGN
-date=19990313,desig=,number=,route=MPN-,mkt_cxr=FIGAS,type2=Britten-Norman Islander,registration=VP-FBD
-date=19990315,desig=,number=,route=-PSY,mkt_cxr=FIGAS,type2=Britten-Norman Islander,registration=VP-FBI
-date=19990315,desig=,number=,route=PSY-,mkt_cxr=FIGAS,type2=Britten-Norman Islander,registration=VP-FBI
-date=19990317,desig=,number=,route=-,mkt_cxr=FIGAS,type2=Britten-Norman Islander,registration=VP-FBI
-date=19990317,desig=,number=,route=-PSY,mkt_cxr=FIGAS,type2=Britten-Norman Islander,registration=VP-FBI
 date=20180228,desig=SK,number=943,route=CPH-ORD,mkt_cxr=Scandinavian Airlines,type2=Airbus A340-300,registration=OY-KBC
 date=20180228,desig=UA,number=782,route=ORD-DFW,mkt_cxr=United Airlines,type2=Airbus A319,registration=N895UA
 date=20180305,desig=UA,number=6029,route=DFW-IAD,mkt_cxr=United Express,type2=Embraer E-175,registration=N89357
