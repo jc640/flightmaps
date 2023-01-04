@@ -77,19 +77,20 @@ def plot_map(flights,
 
     texts = []
     for airport in airports.values():
-        ax.scatter(
-            airport.lon, airport.lat,
-            color='k', s=20, zorder=101, transform=ccrs.PlateCarree())
-        ax.scatter(
-            airport.lon, airport.lat,
-            color='white', s=3.25, zorder=102, transform=ccrs.PlateCarree())
+        if False:
+            ax.scatter(
+                airport.lon, airport.lat,
+                color='k', s=20, zorder=101, transform=ccrs.PlateCarree())
+            ax.scatter(
+                airport.lon, airport.lat,
+                color='white', s=3.25, zorder=102, transform=ccrs.PlateCarree())
 
-        if labels:
-            if bounds[0] < airport.lon < bounds[1] and bounds[2] < airport.lat < bounds[3]:
-                t = ax.text(airport.lon, airport.lat, airport.iata, size=6.75,
-                    zorder=103 + airport_counts[airport],
-                    transform=ccrs.PlateCarree(), ha='center', va='center',
-                    bbox={'facecolor': 'white', 'alpha': 1.0, 'edgecolor': 'k',
-                          'boxstyle': 'round'})
+            if labels:
+                if bounds[0] < airport.lon < bounds[1] and bounds[2] < airport.lat < bounds[3]:
+                    t = ax.text(airport.lon, airport.lat, airport.iata, size=6.75,
+                        zorder=103 + airport_counts[airport],
+                        transform=ccrs.PlateCarree(), ha='center', va='center',
+                        bbox={'facecolor': 'white', 'alpha': 1.0, 'edgecolor': 'k',
+                              'boxstyle': 'round'})
 
     return fig
