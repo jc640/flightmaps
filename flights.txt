@@ -1,3 +1,4 @@
+date=20220827,desig=LH,number=1766,route=MUC-CFU,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A321,type3=A321,registration=D-AIDO
 date=20220725,desig=LH,number=1693,route=PRG-MUC,mkt_cxr=Lufthansa,manufacturer=Embraer,type2=E-195,type3=E-195,registration=I-JENB
 date=20220723,desig=OS,number=116,route=MUC-VIE,mkt_cxr=Austrian Airlines,manufacturer=Embraer,type2=E-195,type3=E-195,registration=OE-LWL
 date=20220615,desig=KL,number=1801,route=AMS-MUC,mkt_cxr=KLM,manufacturer=Boeing,type2=737-800,type3=737-800,registration=PH-BXF
