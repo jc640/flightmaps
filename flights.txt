@@ -1,3 +1,28 @@
+date=20230102,desig=AA,number=1452,route=CAE-DFW,mkt_cxr=American Airlines,manufacturer=Airbus,type2=A320,type3=A320,registration=N664AW
+date=20230101,desig=AA,number=2325,route=DFW-CHS,mkt_cxr=American Airlines,manufacturer=Airbus,type2=A320,type3=A320,registration=N109UW
+date=20221226,desig=AA,number=1737,route=AUS-DFW,mkt_cxr=American Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=N979NN
+date=20221226,desig=AA,number=5782,route=DFW-GRK,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=CRJ-900,type3=CRJ-900,registration=N927LR
+date=20221220,desig=LH,number=438,route=FRA-DFW,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A340-300,type3=A340-300,registration=D-AIFC
+date=20221220,desig=LH,number=93,route=MUC-FRA,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A321,type3=A321,registration=D-AIRY
+date=20221218,desig=LH,number=116,route=FRA-MUC,mkt_cxr=Lufthansa,manufacturer=Boeing,type2=787-9,type3=787-9,registration=D-ABPD
+date=20221218,desig=LH,number=101,route=MUC-FRA,mkt_cxr=Lufthansa,manufacturer=Boeing,type2=787-9,type3=787-9,registration=D-ABPD
+date=20221215,desig=LH,number=2305,route=AMS-MUC,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AIZC
+date=20221214,desig=KL,number=1800,route=MUC-AMS,mkt_cxr=KLM,manufacturer=Boeing,type2=737-800,type3=737-800,registration=PH-BXL
+date=20221208,desig=OS,number=117,route=VIE-MUC,mkt_cxr=Austrian Airlines,manufacturer=Airbus,type2=A321,type3=A321,registration=OE-LBB
+date=20221208,desig=OS,number=728,route=TGD-VIE,mkt_cxr=Austrian Airlines,manufacturer=Airbus,type2=A320,type3=A320,registration=OE-LBP
+date=20221205,desig=LH,number=1454,route=FRA-TIA,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A321,type3=A321,registration=D-AIEA
+date=20221205,desig=LH,number=117,route=MUC-FRA,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A319,type3=A319,registration=D-AIBF
+date=20221204,desig=LH,number=2431,route=GOT-MUC,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A319,type3=A319,registration=D-AIBK
+date=20221203,desig=LH,number=2432,route=MUC-GOT,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AIWI
+date=20221023,desig=LH,number=122,route=FRA-MUC,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A321,type3=A321,registration=D-AIDX
+date=20221022,desig=LH,number=103,route=MUC-FRA,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AIUB
+date=20221016,desig=LO,number=375,route=WAW-MUC,mkt_cxr=LOT Polish Airlines,manufacturer=Embraer,type2=E-170,type3=E-170,registration=SP-LDG
+date=20221016,desig=LO,number=3924,route=KRK-WAW,mkt_cxr=LOT Polish Airlines,manufacturer=Embraer,type2=E-170,type3=E-170,registration=SP-LDK
+date=20221015,desig=LH,number=1622,route=MUC-KRK,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A319,type3=A319,registration=D-AIBB
+date=20220916,desig=LH,number=1693,route=PRG-MUC,mkt_cxr=Lufthansa,manufacturer=Embraer,type2=E-195,type3=E-195,registration=I-ADJX
+date=20220912,desig=OK,number=4417,route=CFU-PRG,mkt_cxr=Czech Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=OK-TVH
+date=20220905,desig=GQ,number=41,route=PVK-CFU,mkt_cxr=Sky Express,manufacturer=ATR,type2=42,type3=42,registration=SX-SIX
+date=20220902,desig=GQ,number=40,route=CFU-PVK,mkt_cxr=Sky Express,manufacturer=ATR,type2=42,type3=42,registration=SX-TWO
 date=20220827,desig=LH,number=1766,route=MUC-CFU,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A321,type3=A321,registration=D-AIDO
 date=20220725,desig=LH,number=1693,route=PRG-MUC,mkt_cxr=Lufthansa,manufacturer=Embraer,type2=E-195,type3=E-195,registration=I-JENB
 date=20220723,desig=OS,number=116,route=MUC-VIE,mkt_cxr=Austrian Airlines,manufacturer=Embraer,type2=E-195,type3=E-195,registration=OE-LWL
