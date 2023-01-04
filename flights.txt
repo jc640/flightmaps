@@ -85,9 +85,9 @@ date=20200228,desig=KL,number=1695,route=AMS-LIS,mkt_cxr=KLM,manufacturer=Boeing
 date=20200228,desig=KL,number=1126,route=CPH-AMS,mkt_cxr=KLM,manufacturer=Boeing,type2=737-700,type3=737-700,registration=PH-BGU
 date=20200216,desig=SK,number=1475,route=OSL-CPH,mkt_cxr=Scandinavian Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=LN-RCX
 date=20200216,desig=SK,number=2308,route=KSU-OSL,mkt_cxr=Scandinavian Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=LN-RPM
-date=20200216,desig=WF,number=568,route=BGO-KSU,mkt_cxr=Widerøe,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=LN-WFT
-date=20200216,desig=WF,number=586,route=KRS-BGO,mkt_cxr=Widerøe,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=LN-WDG
-date=20200215,desig=WF,number=267,route=CPH-KRS,mkt_cxr=Widerøe,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=LN-WDJ
+date=20200216,desig=WF,number=568,route=BGO-KSU,mkt_cxr=Widerøe,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=LN-WFT
+date=20200216,desig=WF,number=586,route=KRS-BGO,mkt_cxr=Widerøe,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=LN-WDG
+date=20200215,desig=WF,number=267,route=CPH-KRS,mkt_cxr=Widerøe,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=LN-WDJ
 date=20200126,desig=SK,number=1475,route=OSL-CPH,mkt_cxr=Scandinavian Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=LN-RRS
 date=20200126,desig=SK,number=1904,route=BLL-OSL,mkt_cxr=Scandinavian Airlines,manufacturer=Bombardier,type2=CRJ-900,type3=CRJ-900,registration=EI-FPD
 date=20200126,desig=SK,number=1285,route=CPH-BLL,mkt_cxr=Scandinavian Airlines,manufacturer=ATR,type2=72,type3=72,registration=ES-ATD
@@ -129,7 +129,7 @@ date=20190430,desig=LH,number=726,route=MUC-PVG,mkt_cxr=Lufthansa,manufacturer=A
 date=20190430,desig=LH,number=2445,route=CPH-MUC,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A321,type3=A321,registration=D-AISF
 date=20190407,desig=BT,number=139,route=RIX-CPH,mkt_cxr=Air Baltic,manufacturer=Boeing,type2=737-500,type3=737-500,registration=YL-BBD
 date=20190407,desig=BT,number=346,route=VNO-RIX,mkt_cxr=Air Baltic,manufacturer=Boeing,type2=737-300,type3=737-300,registration=YL-BBR
-date=20190406,desig=BT,number=343,route=RIX-VNO,mkt_cxr=Air Baltic,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=YL-BAY
+date=20190406,desig=BT,number=343,route=RIX-VNO,mkt_cxr=Air Baltic,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=YL-BAY
 date=20190406,desig=BT,number=132,route=CPH-RIX,mkt_cxr=Air Baltic,manufacturer=Boeing,type2=737-500,type3=737-500,registration=YL-BBD
 date=20190318,desig=SK,number=1421,route=ARN-CPH,mkt_cxr=Scandinavian Airlines,manufacturer=Boeing,type2=737-600,type3=737-600,registration=LN-RPG
 date=20190317,desig=SK,number=904,route=EWR-ARN,mkt_cxr=Scandinavian Airlines,manufacturer=Airbus,type2=A330-300,type3=A330-300,registration=LN-RKR
@@ -166,7 +166,7 @@ date=20180902,desig=SK,number=280,route=BGO-OSL,mkt_cxr=Scandinavian Airlines,ma
 date=20180902,desig=SK,number=2862,route=CPH-BGO,mkt_cxr=Scandinavian Airlines,manufacturer=Bombardier,type2=CRJ-1000,type3=CRJ-1000,registration=EC-MJQ
 date=20180830,desig=DX,number=34,route=CPH-RNN,mkt_cxr=Danish Air Transport,manufacturer=ATR,type2=72,type3=72,registration=OY-RUD
 date=20180730,desig=SK,number=1787,route=TLL-CPH,mkt_cxr=Scandinavian Airlines,manufacturer=Bombardier,type2=CRJ-900,type3=CRJ-900,registration=EI-FPA
-date=20180729,desig=BT,number=315,route=RIX-TLL,mkt_cxr=Air Baltic,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=YL-BAF
+date=20180729,desig=BT,number=315,route=RIX-TLL,mkt_cxr=Air Baltic,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=YL-BAF
 date=20180728,desig=BT,number=132,route=CPH-RIX,mkt_cxr=Air Baltic,manufacturer=Airbus,type2=A220-300,type3=A220-300,registration=YL-CSD
 date=20180709,desig=DX,number=35,route=RNN-CPH,mkt_cxr=Danish Air Transport,manufacturer=ATR,type2=72,type3=72,registration=OY-LHC
 date=20180708,desig=DX,number=36,route=CPH-RNN,mkt_cxr=Danish Air Transport,manufacturer=ATR,type2=72,type3=72,registration=OY-RUR
@@ -265,14 +265,14 @@ date=20170706,desig=BA,number=822,route=LHR-CPH,mkt_cxr=British Airways,manufact
 date=20170706,desig=KL,number=1007,route=AMS-LHR,mkt_cxr=KLM,manufacturer=Boeing,type2=737-800,type3=737-800,registration=PH-HSE
 date=20170706,desig=KL,number=1124,route=CPH-AMS,mkt_cxr=KLM,manufacturer=Boeing,type2=737-900,type3=737-900,registration=PH-BXR
 date=20170611,desig=SK,number=610,route=ZRH-CPH,mkt_cxr=Scandinavian Airlines,manufacturer=Airbus,type2=A321,type3=A321,registration=OY-KBL
-date=20170611,desig=LX,number=2913,route=LUG-ZRH,mkt_cxr=Swiss,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=OE-LGP
+date=20170611,desig=LX,number=2913,route=LUG-ZRH,mkt_cxr=Swiss,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=OE-LGP
 date=20170610,desig=SK,number=1685,route=CPH-MXP,mkt_cxr=Scandinavian Airlines,manufacturer=Airbus,type2=A320,type3=A320,registration=OY-KAL
 date=20170419,desig=SK,number=502,route=LHR-CPH,mkt_cxr=Scandinavian Airlines,manufacturer=Airbus,type2=A320,type3=A320,registration=OY-KAW
 date=20170418,desig=BA,number=867,route=BUD-LHR,mkt_cxr=British Airways,manufacturer=Airbus,type2=A320,type3=A320,registration=G-EUUY
-date=20170409,desig=OS,number=706,route=PRG-VIE,mkt_cxr=Austrian Airlines,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=OE-LGA
+date=20170409,desig=OS,number=706,route=PRG-VIE,mkt_cxr=Austrian Airlines,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=OE-LGA
 date=20170407,desig=SK,number=767,route=CPH-PRG,mkt_cxr=Scandinavian Airlines,manufacturer=Airbus,type2=A320,type3=A320,registration=OY-KAR
 date=20170327,desig=AB,number=8034,route=TXL-CPH,mkt_cxr=Air Berlin,manufacturer=Airbus,type2=A320,type3=A320,registration=D-ABNW
-date=20170327,desig=AB,number=6414,route=NUE-TXL,mkt_cxr=Air Berlin,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=D-ABQP
+date=20170327,desig=AB,number=6414,route=NUE-TXL,mkt_cxr=Air Berlin,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=D-ABQP
 date=20170324,desig=LH,number=148,route=FRA-NUE,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A319,type3=A319,registration=D-AILM
 date=20170324,desig=LH,number=829,route=CPH-FRA,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AIQW
 date=20170203,desig=SK,number=928,route=BOS-CPH,mkt_cxr=Scandinavian Airlines,manufacturer=Boeing,type2=737-700,type3=737-700,registration=HB-JJA
@@ -292,7 +292,7 @@ date=20161118,desig=AA,number=2423,route=DFW-DSM,mkt_cxr=American Airlines,manuf
 date=20161112,desig=AA,number=1537,route=EWR-DFW,mkt_cxr=American Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=N868NN
 date=20161111,desig=SK,number=901,route=CPH-EWR,mkt_cxr=Scandinavian Airlines,manufacturer=Airbus,type2=A340-300,type3=A340-300,registration=LN-RKG
 date=20161022,desig=LO,number=461,route=WAW-CPH,mkt_cxr=LOT Polish Airlines,manufacturer=Embraer,type2=E-175,type3=E-175,registration=SP-LIF
-date=20161022,desig=LO,number=616,route=LJU-WAW,mkt_cxr=LOT Polish Airlines,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=SP-EQI
+date=20161022,desig=LO,number=616,route=LJU-WAW,mkt_cxr=LOT Polish Airlines,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=SP-EQI
 date=20161014,desig=LH,number=2419,route=ARN-MUC,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AIZH
 date=20161014,desig=SK,number=408,route=CPH-ARN,mkt_cxr=Scandinavian Airlines,manufacturer=Airbus,type2=A320,type3=A320,registration=OY-KAT
 date=20160831,desig=FI,number=204,route=KEF-CPH,mkt_cxr=Icelandair,manufacturer=Boeing,type2=757-200,type3=757-200,registration=TF-ISK
@@ -309,16 +309,16 @@ date=20160807,desig=AA,number=5031,route=IAD-CLT,mkt_cxr=American Eagle,manufact
 date=20160806,desig=AA,number=2553,route=DFW-DCA,mkt_cxr=American Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=N908AN
 date=20160727,desig=AA,number=2347,route=CMH-DFW,mkt_cxr=American Airlines,manufacturer=McDonnell Douglas,type2=MD-80,type3=MD-80,registration=N566AA
 date=20160727,desig=AA,number=4591,route=PHL-CMH,mkt_cxr=American Eagle,manufacturer=Embraer,type2=E-175,type3=E-175,registration=N120HQ
-date=20160727,desig=AA,number=4785,route=ITH-PHL,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N816EX
-date=20160725,desig=AA,number=4830,route=PHL-ITH,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N807EX
+date=20160727,desig=AA,number=4785,route=ITH-PHL,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N816EX
+date=20160725,desig=AA,number=4830,route=PHL-ITH,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N807EX
 date=20160725,desig=AA,number=536,route=DFW-PHL,mkt_cxr=American Airlines,manufacturer=Airbus,type2=A321,type3=A321,registration=N924US
 date=20160718,desig=AA,number=2487,route=CMH-DFW,mkt_cxr=American Airlines,manufacturer=McDonnell Douglas,type2=MD-80,type3=MD-80,registration=N9626F
 date=20160717,desig=AA,number=4420,route=LGA-CMH,mkt_cxr=American Eagle,manufacturer=Embraer,type2=E-175,type3=E-175,registration=N109HQ
 date=20160716,desig=AA,number=2490,route=DFW-BDL,mkt_cxr=American Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=N934AN
 date=20160710,desig=AA,number=1568,route=MCI-DFW,mkt_cxr=American Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=N944AN
 date=20160710,desig=AA,number=4472,route=PHL-MCI,mkt_cxr=American Eagle,manufacturer=Embraer,type2=E-175,type3=E-175,registration=N131HQ
-date=20160708,desig=AA,number=4830,route=ITH-PHL,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N804EX
-date=20160706,desig=AA,number=4830,route=PHL-ITH,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N935HA
+date=20160708,desig=AA,number=4830,route=ITH-PHL,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N804EX
+date=20160706,desig=AA,number=4830,route=PHL-ITH,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N935HA
 date=20160706,desig=AA,number=536,route=DFW-PHL,mkt_cxr=American Airlines,manufacturer=Airbus,type2=A321,type3=A321,registration=N151UW
 date=20160703,desig=AA,number=3192,route=XNA-DFW,mkt_cxr=American Eagle,manufacturer=Embraer,type2=E-175,type3=E-175,registration=N230NN
 date=20160703,desig=AA,number=3599,route=DFW-XNA,mkt_cxr=American Eagle,manufacturer=Embraer,type2=E-175,type3=E-175,registration=N227NN
@@ -332,8 +332,8 @@ date=20160618,desig=AA,number=210,route=JFK-MAN,mkt_cxr=American Airlines,manufa
 date=20160617,desig=AA,number=132,route=DFW-EWR,mkt_cxr=American Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=N916NN
 date=20160610,desig=AA,number=2445,route=MEM-DFW,mkt_cxr=American Airlines,manufacturer=McDonnell Douglas,type2=MD-80,type3=MD-80,registration=N9677W
 date=20160610,desig=AA,number=4048,route=PHL-MEM,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=CRJ-200,type3=CRJ-200,registration=N455AW
-date=20160610,desig=AA,number=4785,route=ITH-PHL,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N815EX
-date=20160608,desig=AA,number=4851,route=PHL-ITH,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N839EX
+date=20160610,desig=AA,number=4785,route=ITH-PHL,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N815EX
+date=20160608,desig=AA,number=4851,route=PHL-ITH,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N839EX
 date=20160608,desig=AA,number=2097,route=MCI-PHL,mkt_cxr=American Airlines,manufacturer=Embraer,type2=E-190,type3=E-190,registration=N948UW
 date=20160608,desig=AA,number=970,route=DFW-MCI,mkt_cxr=American Airlines,manufacturer=McDonnell Douglas,type2=MD-80,type3=MD-80,registration=N9630A
 date=20160601,desig=AA,number=1327,route=PHL-DFW,mkt_cxr=American Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=N905NN
@@ -341,11 +341,11 @@ date=20160601,desig=AA,number=3772,route=DTW-PHL,mkt_cxr=American Eagle,manufact
 date=20160601,desig=DL,number=7389,route=ITH-DTW,mkt_cxr=Delta Connection,manufacturer=Bombardier,type2=CRJ-200,type3=CRJ-200,registration=N8933B
 date=20160401,desig=LH,number=402,route=FRA-EWR,mkt_cxr=Lufthansa,manufacturer=Boeing,type2=747-8,type3=747-8,registration=D-ABYK
 date=20160331,desig=OU,number=414,route=ZAG-FRA,mkt_cxr=Croatia Airlines,manufacturer=Airbus,type2=A319,type3=A319,registration=9A-CTH
-date=20160329,desig=OU,number=381,route=SPU-ZAG,mkt_cxr=Croatia Airlines,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=9A-CQA
+date=20160329,desig=OU,number=381,route=SPU-ZAG,mkt_cxr=Croatia Airlines,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=9A-CQA
 date=20160327,desig=OU,number=413,route=FRA-SPU,mkt_cxr=Croatia Airlines,manufacturer=Airbus,type2=A319,type3=A319,registration=9A-CTL
 date=20160326,desig=AA,number=700,route=PHL-FRA,mkt_cxr=American Airlines,manufacturer=Airbus,type2=A330-200,type3=A330-200,registration=N286AY
-date=20160326,desig=AA,number=4924,route=AVP-PHL,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N936HA
-date=20160125,desig=AA,number=4851,route=PHL-ITH,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N942HA
+date=20160326,desig=AA,number=4924,route=AVP-PHL,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N936HA
+date=20160125,desig=AA,number=4851,route=PHL-ITH,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N942HA
 date=20160125,desig=AA,number=2316,route=DFW-PHL,mkt_cxr=American Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=N809NN
 date=20160122,desig=AA,number=2327,route=ORD-DFW,mkt_cxr=American Airlines,manufacturer=Airbus,type2=A319,type3=A319,registration=N9021H
 date=20160122,desig=SK,number=943,route=CPH-ORD,mkt_cxr=Scandinavian Airlines,manufacturer=Airbus,type2=A340-300,type3=A340-300,registration=LN-RKP
@@ -362,10 +362,10 @@ date=20151226,desig=AZ,number=407,route=FRA-FCO,mkt_cxr=Alitalia,manufacturer=Ai
 date=20151225,desig=AA,number=704,route=CLT-FRA,mkt_cxr=American Airlines,manufacturer=Airbus,type2=A330-200,type3=A330-200,registration=N290AY
 date=20151225,desig=AA,number=2110,route=DFW-CLT,mkt_cxr=American Airlines,manufacturer=Embraer,type2=E-190,type3=E-190,registration=N961UW
 date=20151217,desig=AA,number=751,route=PHL-DFW,mkt_cxr=American Airlines,manufacturer=Airbus,type2=A321,type3=A321,registration=N572UW
-date=20151217,desig=AA,number=4890,route=ITH-PHL,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N805EX
-date=20151031,desig=AA,number=4752,route=PHL-ELM,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N938HA
-date=20151030,desig=AA,number=4843,route=ITH-PHL,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N804EX
-date=20150822,desig=US,number=4752,route=PHL-ELM,mkt_cxr=US Airways Express,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N809EX
+date=20151217,desig=AA,number=4890,route=ITH-PHL,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N805EX
+date=20151031,desig=AA,number=4752,route=PHL-ELM,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N938HA
+date=20151030,desig=AA,number=4843,route=ITH-PHL,mkt_cxr=American Eagle,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N804EX
+date=20150822,desig=US,number=4752,route=PHL-ELM,mkt_cxr=US Airways Express,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N809EX
 date=20150821,desig=AA,number=362,route=DFW-PHL,mkt_cxr=American Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=N832NN
 date=20150811,desig=US,number=751,route=PHL-DFW,mkt_cxr=US Airways,manufacturer=Airbus,type2=A321,type3=A321,registration=N163US
 date=20150811,desig=US,number=711,route=ZRH-PHL,mkt_cxr=US Airways,manufacturer=Airbus,type2=A330-200,type3=A330-200,registration=N292AY
@@ -383,8 +383,8 @@ date=20150721,desig=AA,number=3087,route=DFW-MHK,mkt_cxr=American Eagle,manufact
 date=20150719,desig=AA,number=3100,route=CLL-DFW,mkt_cxr=American Eagle,manufacturer=Embraer,type2=ERJ-145,type3=ERJ-145,registration=N642AE
 date=20150719,desig=AA,number=3543,route=DFW-CLL,mkt_cxr=American Eagle,manufacturer=Embraer,type2=ERJ-145,type3=ERJ-145,registration=N932AE
 date=20150716,desig=US,number=492,route=PHL-DFW,mkt_cxr=US Airways,manufacturer=Airbus,type2=A321,type3=A321,registration=N155UW
-date=20150716,desig=US,number=4851,route=ITH-PHL,mkt_cxr=US Airways Express,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N940HA
-date=20150715,desig=US,number=4851,route=PHL-ITH,mkt_cxr=US Airways Express,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N940HA
+date=20150716,desig=US,number=4851,route=ITH-PHL,mkt_cxr=US Airways Express,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N940HA
+date=20150715,desig=US,number=4851,route=PHL-ITH,mkt_cxr=US Airways Express,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N940HA
 date=20150715,desig=US,number=585,route=DFW-PHL,mkt_cxr=US Airways,manufacturer=Airbus,type2=A321,type3=A321,registration=N163US
 date=20150704,desig=US,number=751,route=PHL-DFW,mkt_cxr=US Airways,manufacturer=Airbus,type2=A321,type3=A321,registration=N173US
 date=20150704,desig=US,number=769,route=GLA-PHL,mkt_cxr=US Airways,manufacturer=Boeing,type2=757-200,type3=757-200,registration=N204UW
@@ -399,8 +399,8 @@ date=20150612,desig=BA,number=392,route=LHR-BRU,mkt_cxr=British Airways,manufact
 date=20150611,desig=AA,number=106,route=JFK-LHR,mkt_cxr=American Airlines,manufacturer=Boeing,type2=777-300,type3=777-300,registration=N731AN
 date=20150611,desig=AA,number=952,route=DFW-EWR,mkt_cxr=American Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=N855NN
 date=20150605,desig=US,number=751,route=PHL-DFW,mkt_cxr=US Airways,manufacturer=Airbus,type2=A321,type3=A321,registration=N553UW
-date=20150605,desig=US,number=4890,route=ITH-PHL,mkt_cxr=US Airways Express,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N936HA
-date=20150604,desig=US,number=4843,route=PHL-ITH,mkt_cxr=US Airways Express,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N810EX
+date=20150605,desig=US,number=4890,route=ITH-PHL,mkt_cxr=US Airways Express,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N936HA
+date=20150604,desig=US,number=4843,route=PHL-ITH,mkt_cxr=US Airways Express,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N810EX
 date=20150604,desig=US,number=1839,route=DFW-PHL,mkt_cxr=US Airways,manufacturer=Airbus,type2=A319,type3=A319,registration=N758US
 date=20150531,desig=AA,number=383,route=AUS-DFW,mkt_cxr=American Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=N894NN
 date=20150531,desig=AA,number=1561,route=DFW-AUS,mkt_cxr=American Airlines,manufacturer=McDonnell Douglas,type2=MD-80,type3=MD-80,registration=N33502
@@ -408,7 +408,7 @@ date=20150525,desig=AA,number=2401,route=LAX-DFW,mkt_cxr=American Airlines,manuf
 date=20150523,desig=AA,number=1505,route=DFW-ONT,mkt_cxr=American Airlines,manufacturer=McDonnell Douglas,type2=MD-80,type3=MD-80,registration=N971TW
 date=20150517,desig=AA,number=1537,route=EWR-DFW,mkt_cxr=American Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=N983AN
 date=20150515,desig=US,number=4483,route=PHL-LGA,mkt_cxr=US Airways Express,manufacturer=Embraer,type2=E-175,type3=E-175,registration=N138HQ
-date=20150515,desig=US,number=4821,route=ITH-PHL,mkt_cxr=US Airways Express,manufacturer=Bombardier,type2=Dash,type3=Dash,registration=N940HA
+date=20150515,desig=US,number=4821,route=ITH-PHL,mkt_cxr=US Airways Express,manufacturer=Bombardier,type2=Dash-8,type3=Dash-8,registration=N940HA
 date=20150403,desig=US,number=715,route=VCE-PHL,mkt_cxr=US Airways,manufacturer=Airbus,type2=A330-300,type3=A330-300,registration=N274AY
 date=20150328,desig=AA,number=64,route=JFK-ZRH,mkt_cxr=American Airlines,manufacturer=Boeing,type2=767-300,type3=767-300,registration=N343AN
 date=20150118,desig=AA,number=1642,route=DFW-EWR,mkt_cxr=American Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=N958NN
