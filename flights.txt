@@ -1,3 +1,5 @@
+date=20230122,desig=LH,number=1795,route=PMI-MUC,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AIWA
+date=20230121,desig=LH,number=1794,route=MUC-PMI,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AIWE
 date=20230109,desig=LH,number=104,route=FRA-MUC,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A319,type3=A319,registration=D-AIBI
 date=20230108,desig=LH,number=439,route=DFW-FRA,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A340-300,type3=A340-300,registration=D-AIGX
 date=20230102,desig=AA,number=1452,route=CAE-DFW,mkt_cxr=American Airlines,manufacturer=Airbus,type2=A320,type3=A320,registration=N664AW
