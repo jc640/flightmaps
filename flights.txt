@@ -1,3 +1,6 @@
+date=20230212,desig=LH,number=1755,route=ATH-MUC,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AIWA
+date=20230211,desig=A3,number=121,route=SKG-ATH,mkt_cxr=Aegean Airlines,manufacturer=Airbus,type2=A320,type3=A320,registration=SX-DGZ
+date=20230210,desig=A3,number=503,route=MUC-SKG,mkt_cxr=Aegean Airlines,manufacturer=Airbus,type2=A320,type3=A320,registration=SX-NED
 date=20230205,desig=LH,number=1955,route=BER-MUC,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AIZB
 date=20230204,desig=LH,number=2166,route=MUC-LEJ,mkt_cxr=Lufthansa,manufacturer=Bombardier,type2=CRJ-900,type3=CRJ-900,registration=D-ACND
 date=20230122,desig=LH,number=1795,route=PMI-MUC,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AIWA
