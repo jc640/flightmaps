@@ -1,3 +1,7 @@
+date=20230227,desig=AF,number=1122,route=CDG-MUC,mkt_cxr=Air France,manufacturer=Airbus,type2=A319,type3=A319,registration=F-GRHS
+date=20230227,desig=AF,number=7535,route=PUF-CDG,mkt_cxr=Air France,manufacturer=Embraer,type2=E-190,type3=E-190,registration=F-HBLK
+date=20230225,desig=AF,number=7532,route=CDG-PUF,mkt_cxr=Air France,manufacturer=Embraer,type2=E-190,type3=E-190,registration=F-HBLG
+date=20230225,desig=AF,number=1823,route=MUC-CDG,mkt_cxr=Air France,manufacturer=Airbus,type2=A220-300,type3=A200-300,registration=F-HZUL
 date=20230212,desig=LH,number=1755,route=ATH-MUC,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AIWA
 date=20230211,desig=A3,number=121,route=SKG-ATH,mkt_cxr=Aegean Airlines,manufacturer=Airbus,type2=A320,type3=A320,registration=SX-DGZ
 date=20230210,desig=A3,number=503,route=MUC-SKG,mkt_cxr=Aegean Airlines,manufacturer=Airbus,type2=A320,type3=A320,registration=SX-NED
