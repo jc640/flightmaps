@@ -1,3 +1,4 @@
+date=20230316,desig=AA,number=2638,route=DFW-ORF,mkt_cxr=American Airlines,manufacturer=Boeing,type2=737-800,type3=737-800,registration=N893NN
 date=20230310,desig=DL,number=31,route=ATL-DFW,mkt_cxr=Delta Air Lines,manufacturer=Airbus,type2=A321,type3=A321,registration=N101DQ
 date=20230310,desig=DL,number=131,route=MUC-ATL,mkt_cxr=Delta Air Lines,manufacturer=Boeing,type2=767-400,type3=767-400,registration=N833MH
 date=20230308,desig=GQ,number=870,route=ATH-MUC,mkt_cxr=Sky Express,manufacturer=Airbus,type2=A320,type3=A320,registration=SX-IOG
