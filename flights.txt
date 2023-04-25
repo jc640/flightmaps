@@ -1,3 +1,6 @@
+date=20230412,desig=LH,number=2309,route=AMS-MUC,mkt_cxr=Lufthansa,manufacturer=Bombardier,type2=CRJ-900,type3=CRJ-900,registration=D-ACNW
+date=20230409,desig=BA,number=8457,route=LCY-AMS,mkt_cxr=British Airways,manufacturer=Embraer,type2=E-190,type3=E-190,registration=G-LCAE
+date=20230405,desig=BA,number=909,route=FRA-LHR,mkt_cxr=British Airways,manufacturer=Airbus,type2=A320,type3=A320,registration=G-TTNP
 date=20230404,desig=LH,number=1976,route=MUC-CGN,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AINZ
 date=20230325,desig=EN,number=8803,route=LIN-FRA,mkt_cxr=Air Dolomiti,manufacturer=Embraer,type2=E-195,type3=E-195,registration=I-ADJK
 date=20230324,desig=EN,number=8286,route=MUC-LIN,mkt_cxr=Air Dolomiti,manufacturer=Embraer,type2=E-195,type3=E-195,registration=I-ADJZ
