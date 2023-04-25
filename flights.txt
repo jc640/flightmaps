@@ -1,3 +1,4 @@
+date=20230404,desig=LH,number=1976,route=MUC-CGN,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AINZ
 date=20230325,desig=EN,number=8803,route=LIN-FRA,mkt_cxr=Air Dolomiti,manufacturer=Embraer,type2=E-195,type3=E-195,registration=I-ADJK
 date=20230324,desig=EN,number=8286,route=MUC-LIN,mkt_cxr=Air Dolomiti,manufacturer=Embraer,type2=E-195,type3=E-195,registration=I-ADJZ
 date=20230321,desig=DL,number=130,route=ATL-MUC,mkt_cxr=Delta Air Lines,manufacturer=Boeing,type2=767-400,type3=767-400,registration=N840MH
