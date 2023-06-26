@@ -3,7 +3,7 @@ date=20230618,desig=LH,number=973,route=BRS-FRA,mkt_cxr=Lufthansa,manufacturer=E
 date=20230616,desig=LH,number=2478,route=MUC-LHR,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AIJA
 date=20230604,desig=LH,number=2149,route=STR-MUC,mkt_cxr=Lufthansa,manufacturer=Bombardier,type2=CRJ-1000,type3=CRJ-1000,registration=EI-HIC
 date=20230521,desig=LX,number=1110,route=ZRH-MUC,mkt_cxr=Swiss,manufacturer=Airbus,type2=A320,type3=A320,registration=HB-JDF
-date=20230520,desig=LX,number=1273,route=CPH-ZRH,mkt_cxr=Swiss,manufacturer=Airbus,type2=A320,type3=A320,registration=YL-ABF
+date=20230520,desig=LX,number=1273,route=CPH-ZRH,mkt_cxr=Swiss,manufacturer=Airbus,type2=A220-300,type3=A220-300,registration=YL-ABF
 date=20230520,desig=LH,number=2440,route=MUC-CPH,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AINX
 date=20230515,desig=LH,number=2317,route=LUX-MUC,mkt_cxr=Lufthansa,manufacturer=Embraer,type2=E-195,type3=E-195,registration=I-ADJT
 date=20230513,desig=LG,number=8022,route=CDG-LUX,mkt_cxr=Luxair,manufacturer=Bombardier,type2=Dash 8-400,type3=Dash 8-400,registration=LX-LGM
