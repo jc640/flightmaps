@@ -1,3 +1,5 @@
+date=20230709,desig=LH,number=122,route=FRA-MUC,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AIZI
+date=20230709,desig=LH,number=377,route=FDH-FRA,mkt_cxr=Lufthansa,manufacturer=Bombardier,type2=CRJ-900,type3=CRJ-900,registration=D-ACNP
 date=20230619,desig=LH,number=94,route=FRA-MUC,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AINH
 date=20230618,desig=LH,number=973,route=BRS-FRA,mkt_cxr=Lufthansa,manufacturer=Embraer,type2=E-190,type3=E-190,registration=D-AECG
 date=20230616,desig=LH,number=2478,route=MUC-LHR,mkt_cxr=Lufthansa,manufacturer=Airbus,type2=A320,type3=A320,registration=D-AIJA
